@@ -49,8 +49,8 @@ int main() {
         cout << "Minimum number of coins required = "
              << dp[amount] << endl;
     }
-    cout<<"Srivek Annavarapu\n";
-    cout<<"92460118171\n";
+    cout<<"Karthik Upadhya\n";
+    cout<<"92460118138\n";
     cout<<"5-EN18\n";
 
     return 0;
